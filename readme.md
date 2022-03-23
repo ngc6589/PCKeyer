@@ -1,6 +1,8 @@
 # PCKeyer
 ## 概要
 
+<img src="https://github.com/ngc6589/PCKeyer/blob/main/image/20220323_064914685_iOS.jpg">
+
 PCKeyer はお手持ちのエレキーと無線機の KEY ジャック間に入れることで、PCキーイング機能を追加するためのアダプタ基板です。
 
 ctestwin や DSCW (Didital Sound CW) などのソフトからキーイングすることが出来ます。
