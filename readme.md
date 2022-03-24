@@ -5,7 +5,7 @@
 
 PCKeyer はお手持ちのエレキーと無線機の KEY ジャック間に入れることで、PCキーイング機能を追加するためのアダプタ基板です。
 
-ctestwin や DSCW (Didital Sound CW) などのソフトからキーイングすることが出来ます。
+CTESTWIN や DSCW (Didital Sound CW) などから、シリアルポートの RTS/DTR を使用したキーイングをすることが出来ます。
 
 ## プリント基板について
 
