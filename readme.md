@@ -1,11 +1,15 @@
 # PCKeyer
 ## 概要
 
-<img src="https://github.com/ngc6589/PCKeyer/blob/main/image/20220323_064914685_iOS.jpg">
+<img src="https://github.com/ngc6589/PCKeyer/blob/main/image/20220324_001459592_iOS.jpg">
 
 PCKeyer はお手持ちのエレキーと無線機の KEY ジャック間に入れることで、PCキーイング機能を追加するためのアダプタ基板です。
 
 CTESTWIN や DSCW (Didital Sound CW) などから、シリアルポートの RTS/DTR を使用したキーイングをすることが出来ます。
+
+<img src="https://github.com/ngc6589/PCKeyer/blob/main/image/20220324_001214384_iOS.jpg">
+
+パドル -> エレキー -> 当アダプタ -> リグのキージャック という接続です。
 
 ## プリント基板について
 
@@ -43,7 +47,7 @@ CTESTWIN や DSCW (Didital Sound CW) などから、シリアルポートの RTS
 
 ## 注意事項
 
-- 無線機の KEY 入力は縦振の設定にして下さい
+- 無線機の KEY 入力はストレートキーの設定にして下さい
 - フォトカプラの耐圧から、真空管式リグのキーイングは出来ません。
 - 本機を USB に差した時、 USB シリアルアダプタの初期化途中6回程送信状態になります。無線機が ON の状態だとその間送信状態となります。注意ください。
-- 
+
