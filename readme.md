@@ -1,19 +1,19 @@
 # PCKeyer
 ## 概要
 
-<img src="https://github.com/ngc6589/PCKeyer/blob/main/image/20220324_001459592_iOS.jpg">
+![image 1](image/20220324_001459592_iOS.jpg)
 
 PCKeyer はお手持ちのエレキーと無線機の KEY ジャック間に入れることで、PCキーイング機能を追加するためのアダプタ基板です。
 
 CTESTWIN や DSCW (Didital Sound CW) などから、シリアルポートの RTS/DTR を使用したキーイングをすることが出来ます。
 
-<img src="https://github.com/ngc6589/PCKeyer/blob/main/image/20220324_001214384_iOS.jpg">
+![image](image/20220324_001214384_iOS.jpg)
 
 パドル -> エレキー -> 当アダプタ -> リグのキージャック という接続です。
 
 ## プリント基板について
 
-当リポジトリに 20220317.zip というのがあります。KiCad 6.0.2 で作成したガーバーファイルです。これを基板製造業者で作成してもらってください。
+基板は https://www.em9system.com/?p=956 にて頒布いたします。
 
 
 ## 部品表  
